@@ -9,4 +9,5 @@ Model uses 20% data for validation and accuracy in current state is 50-60%.
 ![download](https://user-images.githubusercontent.com/112889066/188495436-7fdb92cc-ed9d-4402-8278-9b24513b0637.png)
 
 # Model Layers
-![image](https://user-images.githubusercontent.com/112889066/188495675-5557c7fb-ccfd-4448-adae-082eeeac2a22.png)
+
+![download](https://user-images.githubusercontent.com/112889066/188499683-2be5bd81-024c-4440-b6d6-fe19c6931c18.png)
